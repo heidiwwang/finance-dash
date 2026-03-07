@@ -1,0 +1,11 @@
+date,amount,category,type,comment
+2026-03-01,15.50,Dining Out,cash,Coffee and lunch at local cafe
+2026-03-01,500.00,Technology,debt,New monitor purchase on credit
+2026-03-02,250.00,ETF,investment,Monthly contribution to index fund
+2026-03-03,42.75,Groceries,cash,Farmers market produce
+2026-03-04,120.00,Utilities,debt,Monthly internet and hydro bill
+2026-03-05,1000.00,Stocks,investment,Purchased shares in clean energy
+2026-03-05,25.00,Entertainment,cash,Movie ticket and popcorn
+2026-03-06,2150.00,Loan Payment,debt,Principal repayment on personal loan
+2026-03-07,85.30,Transportation,cash,Gas and car wash
+2026-03-07,150.00,Mutual Funds,investment,Automatic dividend reinvestment
